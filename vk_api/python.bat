@@ -1,0 +1,1 @@
+C:\Python36-32\python.exe C:\Users\User\PycharmProjects\vk_api\StatusApp.py

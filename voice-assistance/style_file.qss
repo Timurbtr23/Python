@@ -1,0 +1,22 @@
+QMainWindow{
+    background: #f4fffc;
+}
+QPushButton{
+        border-style: solid;
+        border-width: 0px;
+        border-radius: 20px;
+        background: url('mic.png') no-repeat;
+}
+QPushButton:hover{
+        border-radius: 20px;
+}
+QToolButton{border-style: solid;
+        border-width: 0px;
+        border-radius: 4px;
+        border-color: rgb(125,125,125);
+        background-color: rgba(20, 200, 50, 0);}
+QToolButton:hover{border-style: solid;
+        border-width: 0px;
+        border-radius: 4px;
+        border-color: rgb(125,125,125);
+        background-color: rgba(218, 22, 22, 1);}

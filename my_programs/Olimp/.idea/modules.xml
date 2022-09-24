@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Olimp.iml" filepath="$PROJECT_DIR$/.idea/Olimp.iml" />
+      <module fileurl="file://G:/programs/.idea/programs.iml" filepath="G:/programs/.idea/programs.iml" />
+      <module fileurl="file://G:/python_base/.idea/python_base.iml" filepath="G:/python_base/.idea/python_base.iml" />
+    </modules>
+  </component>
+</project>
